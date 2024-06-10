@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Gomoku:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gomoku_jar</output-path>
+    <root id="archive" name="Gomoku.jar">
+      <element id="module-output" name="Gomoku" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mongodb-jdbc-2.1.2-all.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
